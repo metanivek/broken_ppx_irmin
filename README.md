@@ -1,3 +1,7 @@
+resolved by https://github.com/dbuenzli/topkg/pull/139
+
+---
+
 minimal test case to demonstrate `ppx_irmin` + `mdx` breaking on OCaml 5, as
 seen [in this CI run](https://ci.ocamllabs.io/github/mirage/irmin/commit/26bc5002367deb6f2a2c887a586085e8d1cd675f/variant/debian-11-5.0_opam-2.1).
 
